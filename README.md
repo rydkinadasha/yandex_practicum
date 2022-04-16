@@ -9,6 +9,8 @@ These are some of the projects I completed as part of my Data Science studies at
 - <b>oil_well:</b> using classic ML (regression) to choose the best oil well location
 - <b>gold_recovery:</b> using classic ML (regression) to predict the gold recovery coefficient 
 
+---------------------------------------
+
 Здесь можно посмотреть несколько проектов, которые я готовила по время обучения в Яндекс.Практикуме на курсе "Специалист по Data Science". Проекты публикую в порядке их выполнения и надеюсь, что там будет отслеживаться прогресс :)
 - <b>apartments:</b> исследование объявлений о продаже квартир для того, чтобы подготовить данные к машинному обучению
 - <b>telecom:</b> определение перспективного тарифа для телеком-компании
